@@ -1,6 +1,6 @@
 import org.apache.tools.ant.DirectoryScanner
 
-rootProject.name = "mastering-kotlin-refactoring"
+rootProject.name = "mastering-kotlin-refactoring-patchwork"
 
 plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.8.0"
